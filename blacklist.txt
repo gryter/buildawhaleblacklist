@@ -7537,6 +7537,7 @@ newevol
 newfart
 newfermiones
 news24
+newschannel428
 newsdaily
 newsfront
 newtab
