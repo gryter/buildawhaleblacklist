@@ -12012,7 +12012,6 @@ printers
 priroda
 prishpan
 privo
-priyanarc
 priyar
 prizrak
 prmobot
