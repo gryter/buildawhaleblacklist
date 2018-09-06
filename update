@@ -1,3 +1,4 @@
+sed -i 's/[[:space:]]*$//'  blacklist.txt
 sort -u -o blacklist.txt blacklist.txt
 git add . 
 git commit -m "Update blacklist.txt"
