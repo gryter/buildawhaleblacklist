@@ -14283,6 +14283,7 @@ soyjoy
 sp-sponge
 spacaesrea
 spalding
+spam-detector
 spambog
 span4i
 sparkingboy1
