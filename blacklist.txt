@@ -3087,7 +3087,6 @@ definitefeed
 degalitzina
 deia
 deikstorozh
-deineip
 deisi333
 dejavux
 dekmat
@@ -13371,6 +13370,7 @@ satiuskularad
 satnova
 satochi
 satory
+satoshinakamotob
 satoshiroller
 satqtdo
 saulchica
