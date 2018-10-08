@@ -4665,6 +4665,7 @@ galshat
 galushka
 galuska
 galvkajijora
+gaman
 gameguy
 gamelibrary
 gamemasterz
@@ -10479,6 +10480,7 @@ newschannel428
 newsdaily
 newset
 newsfront
+newsteemians
 newtab
 newton596979
 newwork
