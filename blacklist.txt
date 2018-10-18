@@ -3178,6 +3178,7 @@ cryptocrates
 cryptocrown
 cryptoearn
 cryptoevaluation
+cryptofeeds
 cryptoflower23
 cryptoforyou
 cryptofy
@@ -6409,6 +6410,7 @@ habiban
 habibb
 hackbot
 hackermen
+hackerwhacker
 hadi763
 hadiakhan
 hadiatani
